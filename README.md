@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # egg
 A project of eggjs
 =======
