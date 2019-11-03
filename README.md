@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# egg
+A project of eggjs
+
+
 # service
 
 
@@ -32,7 +35,3 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
-=======
-# egg
-A project of eggjs
->>>>>>> e71e36bef8e923fbd02b266cd393f9ec26cf9e3b
