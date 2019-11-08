@@ -1,7 +1,7 @@
 {
-  "name": "service",
-  "version": "1.0.0",
-  "description": "",
+  "name": "{{name}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
   "private": true,
   "egg": {
     "declarations": true
@@ -43,8 +43,8 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "{{repository}}"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "{{author}}",
+  "license": "{{license}}"
 }
